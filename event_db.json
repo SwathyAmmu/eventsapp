@@ -1,0 +1,112 @@
+[
+{
+    "id": 1,
+    "title": "Sufi Night With DJ GT - 25th June",
+	"body":"Music Shows, Online Streaming Events | Hindi | 1hr 30mins",
+	"date":"25 June 2020",
+	"time":"9 PM",
+	"mode":"Online",
+	"location":""Online Streaming,
+	"ticket_price": "100",
+	"url": "https://github.com/SwathyAmmu/eventsapp/blob/master/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Magic Beans - GK for Kids",
+	"body":"Education | English | 4+ | 45mins",
+	"date":"30 June 2020",
+	"time":"10 am",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"300",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Camp K12 Online Summer Camp 2020",
+	"body":"Education | English | 7-18 yrs | 1hr",
+	"date":"24 June 2020",
+	"time":"10 am",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"2500",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Basic Theatre & Acting Workshop (Weekday)",
+	"body":"Acting, Theatre | English | 12+ | 1hr 30mins",
+	"date":"06 July 2020",
+	"time":"7.30 pm",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"2500",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mindz & Thotz-Creatvity Boosting Sessions for Kids",
+	"body":"Arts and Crafts, Education, Self Improvement | English | 11 to 18 yrs | 4hrs",
+	"date":"27 June 2020 - 18 July 2020",
+	"time":"",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"999",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Yoga Classes Online - Attakkalari Connect",
+	"body":"Wellness | English | 14+ | 1hr",
+	"date":"22 June 2020 - 09 July 2020",
+	"time":"",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"200",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Basics Of Photography & Know Your Gear",
+	"body":"Photography | Hindi, Telugu, English | 12+ | 2hrs",
+	"date":"22 June 2020 - 30 June 2020",
+	"time":"",
+	"mode":"Online",
+	"location":"Online Streaming",
+	"ticket_price":"2500",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bharatnatyam for Kids Online - Attakkalari Connect",
+	"body":"Dance | English | 3+ | 1hr",
+	"date":"27 June 2020 - 28 June 2020",
+	"time":"",
+	"mode":"Online"
+	"location":"Watch on Zoom",
+	"ticket_price":"200",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Mindfulness : Explore Your Core Values",
+	"body":"Wellness | English | 8+ | 2hrs",
+	"date":"27 June 2020",
+	"time":"6 PM",
+	"mode":"Online",
+	"location":"Watch on Zoom",
+	"ticket_price":"300",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "How to Become a Pilot",
+	"body":"Education | English | 13+ | 3hrs",
+	"date":"28 June 2020",
+	"time":"5 PM",
+	"mode":"Online",
+	"location":"Watch on Zoom",
+	"ticket_price":"750",
+	"url":"https://github.com/SwathyAmmu/eventsapp/blob/master/images/10.jpg"
+  }
+]
